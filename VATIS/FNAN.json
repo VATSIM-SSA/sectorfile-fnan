@@ -37,14 +37,14 @@
 			"Presets": [
 				{
 					"Name": "RWY 06R",
-					"AirportConditions": "RUNWAY 06R IN USE. EXPECT ILS DME Y APPROACH.",
+					"AirportConditions": "RUNWAY 06R IN USE. EXPECT ILS DME Z APPROACH.",
 					"Notams": null,
 					"ArbitraryText": null,
 					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]."
 				},
 				{
 					"Name": "RWY 24L",
-					"AirportConditions": "RUNWAY 24L IN USE. EXPECT ILS DME Y APPROACH.",
+					"AirportConditions": "RUNWAY 24L IN USE. EXPECT ILS DME Z APPROACH.",
 					"Notams": null,
 					"ArbitraryText": null,
 					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]."
